@@ -1,0 +1,17 @@
+I"b<p>This list of blog posts used to be on the main page. I’ve started writing on so I purposed the main page to be an introduction. This is the archive of those blog posts.
+This is also for old longer, personal updates. :)</p>
+
+<section class="post-list">
+  <div class="container">
+    
+      
+        <h2 class="category-title">2022</h2>
+      
+      <article class="post-item">
+        <span class="post-meta date-label">Dec 30</span>
+        <div class="article-title"><a class="post-link" href="/2022/markdown-cheatsheet-demo/">Markdown Cheatsheet Demo</a></div>
+      </article>
+    
+  </div>
+</section>
+:ET
