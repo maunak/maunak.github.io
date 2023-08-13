@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "maunak"
 title_right   : "" # default: ""
-url           : "https://maunak.github.io" # site url
+url           : "https://maunak.xyz" # site url
 baseurl       : "/" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
