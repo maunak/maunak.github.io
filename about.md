@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-i'm maunak.. i am a computer science and engineering undergraduate..fell in love with computers ever since i was introduced to them.
+i'm maunak.. i am an associate software engineer at H&R Block....fell in love with computers ever since i was introduced to them.
 
-I'm in jalandhar, India for some time now.
+I'm in currently in Trivandru,Kerala,India.
